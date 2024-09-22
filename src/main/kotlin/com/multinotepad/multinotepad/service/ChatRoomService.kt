@@ -2,9 +2,7 @@ package com.multinotepad.multinotepad.service
 
 import com.multinotepad.multinotepad.room.Room
 import mu.KLogging
-import org.springframework.scheduling.annotation.Async
 import org.springframework.stereotype.Service
-import java.util.*
 
 @Service
 class ChatRoomService(
